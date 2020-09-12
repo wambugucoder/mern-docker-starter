@@ -5,8 +5,8 @@
   "proxy": "http://server:4000",
   "dependencies": {
     "axios": "^0.18.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
     "react-scripts": "3.4.2",
     "snyk": "^1.393.0"
   },
