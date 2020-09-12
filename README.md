@@ -1,5 +1,7 @@
 # DEMO REPO | MERN + DOCKER
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fa614de24ede49dbaa6257c1a67e1020)](https://app.codacy.com/manual/josphatwambugu77/mern-docker-starter?utm_source=github.com&utm_medium=referral&utm_content=wambugucoder/mern-docker-starter&utm_campaign=Badge_Grade_Dashboard)
+
 ## Overview
 
 This repo provides an opinionated demo and instructions to setup a development and production environment within docker utilising the MERN stack. It includes:
