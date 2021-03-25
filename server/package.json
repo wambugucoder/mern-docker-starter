@@ -33,12 +33,12 @@
     "concurrently": "^3.6.1",
 
     "express": "^4.17.1",
-    "mongoose": "^5.10.6",
+    "mongoose": "^5.12.2",
 
     "express": "^4.16.3",
     "mongoose": "^5.10.1",
 
-    "snyk": "^1.393.0"
+    "snyk": "^1.465.0"
   },
   "devDependencies": {
     "nodemon": "^1.18.3"
