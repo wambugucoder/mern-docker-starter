@@ -4,7 +4,7 @@
   "private": true,
   "proxy": "http://server:4000",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.20.0",
 
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
