@@ -30,10 +30,10 @@
   },
   "homepage": "https://github.com/joshdcuneo/board#readme",
   "dependencies": {
-    "concurrently": "^3.6.1",
+    "concurrently": "^6.2.2",
 
     "express": "^4.17.1",
-    "mongoose": "^5.10.6",
+    "mongoose": "^5.12.4",
 
     "express": "^4.16.3",
     "mongoose": "^5.10.1",
